@@ -1,4 +1,4 @@
-# Responsive Footer Design using HTML and CSS Flexbox
+# <b>Responsive Footer Design using HTML and CSS Flexbox</b>
 
 This repository contains an example of a responsive footer design using HTML and CSS with Flexbox. The footer is designed to adjust its layout for different screen sizes and devices.
 
